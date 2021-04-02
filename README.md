@@ -1,0 +1,2 @@
+# DotNetCore
+Practse Dotnet Project
